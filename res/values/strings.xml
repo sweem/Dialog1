@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Välj vilken dialog som ska visas!</string>
+    <string name="app_name">Exempel på olika alertdialoger</string>
+    <string name="button1">Dialogexempel 1</string>
+    <string name="button2">Dialogexempel 2</string>
+    
+</resources>
